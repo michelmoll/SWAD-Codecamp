@@ -24,5 +24,10 @@ namespace SWAD_Codecamp
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
